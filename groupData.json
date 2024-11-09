@@ -1,0 +1,12 @@
+[
+  {
+    "chatId": 6046677170,
+    "options": {
+      "/filtercurrentpendingtransactions": {
+        "pronoun": "more",
+        "amount": 100
+      }
+    },
+    "alreadyNotified": []
+  }
+]
